@@ -1,4 +1,6 @@
 # Authors 
+- Rohitash Chandra
+- Anuraganand Sharma
 - Dhiraj Pimparkar
 - Prabhat Kumar
 
