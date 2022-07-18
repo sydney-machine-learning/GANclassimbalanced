@@ -1,2 +1,2 @@
 # SMOTified-GANs
-Neural GAN for addressing class imbalance problems in mineral exploration
+  Algorithm to resample imbalanced Datasets using GANs that work on presampled SMOTE data
