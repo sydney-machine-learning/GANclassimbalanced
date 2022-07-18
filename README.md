@@ -1,2 +1,2 @@
-# GANclassimbalanced
-GANs for class imbalanced problems
+# GAN-classimbalancedmineralexp-
+Neural GAN for addressing class imbalance problems in mineral exploration
