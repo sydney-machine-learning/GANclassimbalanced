@@ -2,7 +2,7 @@
 - Rohitash Chandra
 - Anuraganand Sharma
 - Dhiraj Pimparkar
-- Prabhat Kumar
+- Prabhat Kumar Singh
 
 # SMOTified-GANs
 - Algorithm to resample imbalanced Datasets using GANs that work on presampled SMOTE data
